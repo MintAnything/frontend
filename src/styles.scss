@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/scss/style";
+
+.file-upload {
+    position: absolute;
+    width: 80%;
+    left: 50px;
+    z-index: 200;
+    top: 90px;
+}
